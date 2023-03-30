@@ -34,8 +34,8 @@ public:
     string easyans8;
     string easyans9;
     string easyans10;
-
-        void easymode()
+    /* You can use a single variable to take a input multiple times*/
+    void easymode()
         {
 
 
